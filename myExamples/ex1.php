@@ -21,6 +21,8 @@ class Worker {
 
 }
 
+//Test
+
 $worker = new Worker();
 
 $worker->name = "Иван";
